@@ -10,7 +10,7 @@ Loading the exchange rate
 chmod +x ./requirements && ./requirements
 ```
 
-Переместите файлы init_bd.py, run.py в ./testTaskEnv
+Переместите файлы init_bd.py, run.py, getDownloadData.py в ./testTaskEnv
 
 Перейдите в дирректорию ./testTaskEnv и активируйте вирутально окружения
 ```
