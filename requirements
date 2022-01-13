@@ -1,0 +1,4 @@
+#!/bin/bash
+python3 -m venv ./testTaskEnv && cd testTaskEnv && source bin/activate
+pip install datetime requests lxml pysqlite3
+
